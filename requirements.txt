@@ -1,0 +1,7 @@
+streamlit
+plotly.express
+pandas
+os
+from PIL import Image
+datetime
+warnings
