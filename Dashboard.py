@@ -3,8 +3,6 @@ import plotly.express as px
 import pandas as pd
 from PIL import Image
 import datetime
-import warnings
-warnings.filterwarnings('ignore')
 
 st.set_page_config(page_title="Dashboard!!!", page_icon=":bar_chart:", layout="wide")
 
