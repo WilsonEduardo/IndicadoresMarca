@@ -1,7 +1,6 @@
 import streamlit as st
 import plotly.express as px
 import pandas as pd
-import os
 from PIL import Image
 import datetime
 import warnings
