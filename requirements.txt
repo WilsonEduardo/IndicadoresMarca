@@ -2,6 +2,6 @@ streamlit
 plotly.express
 pandas
 os
-from PIL import Image
+Image
 datetime
 warnings
